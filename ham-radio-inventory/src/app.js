@@ -112,7 +112,7 @@ const HamRadioInventory = () => {
       name: 'Hustler 6-BTV',
       category: 'Antenna',
       frequency: '6-80M',
-      power: '1500W',
+      power: '1000W',
       serialNumber: 'H6BTV-2345',
       purchaseDate: '2022-09-10',
       purchasePrice: 189.00,
