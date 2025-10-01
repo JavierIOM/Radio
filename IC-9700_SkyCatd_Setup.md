@@ -9,6 +9,10 @@ This guide covers the complete setup process for connecting an Icom IC-9700 tran
 - USB cable for IC-9700 connection
 - Icom USB driver (typically installed automatically)
 
+## Software
+- SkyCatd is downloaded from: https://ve3nea.github.io/SkyCAT/download.html
+- Sky Roof is downloaded from: https://ve3nea.github.io/SkyRoof/download.html
+
 ## Part 1: IC-9700 Radio Configuration
 
 ### 1.1 CI-V Settings
